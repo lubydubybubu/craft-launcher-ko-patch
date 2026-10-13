@@ -1,0 +1,4 @@
+upstream: https://github.com/storytold/craft-launcher.git
+tag: v0.3.2
+commit: 6e7a122866591c067344687c45c92f735a1d189b
+patch: patches/craft-launcher-v0.3.2-ko.patch
